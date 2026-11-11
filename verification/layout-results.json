@@ -1,0 +1,52 @@
+[
+  {
+    "width": 390,
+    "screen": "title",
+    "horizontalOverflow": false
+  },
+  {
+    "width": 390,
+    "screen": "grade",
+    "horizontalOverflow": false
+  },
+  {
+    "width": 390,
+    "screen": "select",
+    "horizontalOverflow": false
+  },
+  {
+    "width": 390,
+    "screen": "modeSelect",
+    "horizontalOverflow": false
+  },
+  {
+    "width": 390,
+    "screen": "matchGame",
+    "horizontalOverflow": false
+  },
+  {
+    "width": 1280,
+    "screen": "title",
+    "horizontalOverflow": false
+  },
+  {
+    "width": 1280,
+    "screen": "grade",
+    "horizontalOverflow": false
+  },
+  {
+    "width": 1280,
+    "screen": "select",
+    "horizontalOverflow": false
+  },
+  {
+    "width": 1280,
+    "screen": "modeSelect",
+    "horizontalOverflow": false
+  },
+  {
+    "width": 1280,
+    "screen": "matchGame",
+    "horizontalOverflow": false
+  }
+]

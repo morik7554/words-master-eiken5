@@ -1,0 +1,11 @@
+.git/
+.gitignore
+README.md
+REPORT.md
+review/
+source/
+tests/
+verification/
+node_modules/
+.env
+.env.*

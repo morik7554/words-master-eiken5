@@ -1,0 +1,8 @@
+{
+  "OCR": "mocked response; actual engine separately checked in media-results.json",
+  "correctScore": 100,
+  "correctResult": true,
+  "incorrectResult": true,
+  "wrongAnswerReview": true,
+  "sourceModified": false
+}

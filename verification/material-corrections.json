@@ -1,0 +1,610 @@
+[
+  {
+    "id": "E5-0002",
+    "en": "am",
+    "before": "〜です",
+    "after": "〜です（Iと使う）",
+    "originalEnglish": "am",
+    "correctedEnglish": "am"
+  },
+  {
+    "id": "E5-0003",
+    "en": "is",
+    "before": "〜です",
+    "after": "〜です（he・she・itなどと使う）",
+    "originalEnglish": "is",
+    "correctedEnglish": "is"
+  },
+  {
+    "id": "E5-0004",
+    "en": "are",
+    "before": "〜です",
+    "after": "〜です（you・we・theyなどと使う）",
+    "originalEnglish": "are",
+    "correctedEnglish": "are"
+  },
+  {
+    "id": "E5-0006",
+    "en": "has",
+    "before": "持っている（三単現）",
+    "after": "持っている（he・she・itなどと使うhaveの形）",
+    "originalEnglish": "has",
+    "correctedEnglish": "has"
+  },
+  {
+    "id": "E5-0008",
+    "en": "does",
+    "before": "する（三単現）",
+    "after": "する（he・she・itなどと使うdoの形）",
+    "originalEnglish": "does",
+    "correctedEnglish": "does"
+  },
+  {
+    "id": "E5-0011",
+    "en": "get",
+    "before": "得る・着く",
+    "after": "手に入れる・着く",
+    "originalEnglish": "get",
+    "correctedEnglish": "get"
+  },
+  {
+    "id": "E5-0014",
+    "en": "give",
+    "before": "与える",
+    "after": "あげる・渡す",
+    "originalEnglish": "give",
+    "correctedEnglish": "give"
+  },
+  {
+    "id": "E5-0025",
+    "en": "see",
+    "before": "見る・会う",
+    "after": "見える・会う",
+    "originalEnglish": "see",
+    "correctedEnglish": "see"
+  },
+  {
+    "id": "E5-0026",
+    "en": "look",
+    "before": "見る",
+    "after": "目を向けて見る",
+    "originalEnglish": "look",
+    "correctedEnglish": "look"
+  },
+  {
+    "id": "E5-0027",
+    "en": "watch",
+    "before": "見る",
+    "after": "じっと見る（テレビや動きなどを）",
+    "originalEnglish": "watch",
+    "correctedEnglish": "watch"
+  },
+  {
+    "id": "E5-0030",
+    "en": "speak",
+    "before": "話す",
+    "after": "言葉を話す",
+    "originalEnglish": "speak",
+    "correctedEnglish": "speak"
+  },
+  {
+    "id": "E5-0031",
+    "en": "talk",
+    "before": "話す",
+    "after": "人と話す",
+    "originalEnglish": "talk",
+    "correctedEnglish": "talk"
+  },
+  {
+    "id": "E5-0060",
+    "en": "you",
+    "before": "あなたは・を",
+    "after": "あなたは・あなたを・あなたに",
+    "originalEnglish": "you",
+    "correctedEnglish": "you"
+  },
+  {
+    "id": "E5-0067",
+    "en": "her",
+    "before": "彼女を・彼女の",
+    "after": "彼女を・彼女に・彼女の",
+    "originalEnglish": "her",
+    "correctedEnglish": "her"
+  },
+  {
+    "id": "E5-0069",
+    "en": "it",
+    "before": "それは・を",
+    "after": "それは・それを・それに",
+    "originalEnglish": "it",
+    "correctedEnglish": "it"
+  },
+  {
+    "id": "E5-0072",
+    "en": "us",
+    "before": "私たちを・に",
+    "after": "私たちを・私たちに",
+    "originalEnglish": "us",
+    "correctedEnglish": "us"
+  },
+  {
+    "id": "E5-0075",
+    "en": "they",
+    "before": "彼らは",
+    "after": "彼らは・彼女らは・それらは",
+    "originalEnglish": "they",
+    "correctedEnglish": "they"
+  },
+  {
+    "id": "E5-0076",
+    "en": "them",
+    "before": "彼らを・に",
+    "after": "彼らを・彼らに・それらを・それらに",
+    "originalEnglish": "them",
+    "correctedEnglish": "them"
+  },
+  {
+    "id": "E5-0093",
+    "en": "will",
+    "before": "〜するつもりだ",
+    "after": "〜だろう・〜するつもりだ",
+    "originalEnglish": "will",
+    "correctedEnglish": "will"
+  },
+  {
+    "id": "E5-0098",
+    "en": "because",
+    "before": "なぜなら",
+    "after": "〜なので・〜だから",
+    "originalEnglish": "because",
+    "correctedEnglish": "because"
+  },
+  {
+    "id": "E5-0103",
+    "en": "to",
+    "before": "〜へ・〜すること",
+    "after": "〜へ／（動詞の前で）〜すること・〜するために",
+    "originalEnglish": "to",
+    "correctedEnglish": "to"
+  },
+  {
+    "id": "E5-0176",
+    "en": "class",
+    "before": "授業・クラス",
+    "after": "クラス（学級）",
+    "originalEnglish": "class",
+    "correctedEnglish": "class"
+  },
+  {
+    "id": "E5-0182",
+    "en": "math",
+    "before": "数学",
+    "after": "算数・数学",
+    "originalEnglish": "math",
+    "correctedEnglish": "math"
+  },
+  {
+    "id": "E5-0227",
+    "en": "noodle",
+    "before": "麺",
+    "after": "めん（ふつうはnoodlesと複数形で使う）",
+    "originalEnglish": "noodle",
+    "correctedEnglish": "noodle"
+  },
+  {
+    "id": "E5-0260",
+    "en": "home",
+    "before": "家・自宅",
+    "after": "自宅（生活する場所）",
+    "originalEnglish": "home",
+    "correctedEnglish": "home"
+  },
+  {
+    "id": "E5-0261",
+    "en": "house",
+    "before": "家",
+    "after": "家（建物）",
+    "originalEnglish": "house",
+    "correctedEnglish": "house"
+  },
+  {
+    "id": "E5-0278",
+    "en": "small",
+    "before": "小さい",
+    "after": "小さい（大きさが小さい）",
+    "originalEnglish": "small",
+    "correctedEnglish": "small"
+  },
+  {
+    "id": "E5-0280",
+    "en": "little",
+    "before": "小さい・少しの",
+    "after": "少しの（a littleで使う）",
+    "originalEnglish": "little",
+    "correctedEnglish": "little"
+  },
+  {
+    "id": "E5-0301",
+    "en": "draw",
+    "before": "描く",
+    "after": "絵をかく（えんぴつなどで）",
+    "originalEnglish": "draw",
+    "correctedEnglish": "draw"
+  },
+  {
+    "id": "E5-0302",
+    "en": "paint",
+    "before": "絵を描く",
+    "after": "絵をかく（絵の具で）",
+    "originalEnglish": "paint",
+    "correctedEnglish": "paint"
+  },
+  {
+    "id": "E5-0338",
+    "en": "on",
+    "before": "〜の上に",
+    "after": "〜の上に（くっついている）",
+    "originalEnglish": "on",
+    "correctedEnglish": "on"
+  },
+  {
+    "id": "E5-0341",
+    "en": "over",
+    "before": "〜の上方に",
+    "after": "〜の上方に・〜をこえて",
+    "originalEnglish": "over",
+    "correctedEnglish": "over"
+  },
+  {
+    "id": "E5-0342",
+    "en": "above",
+    "before": "〜の上に",
+    "after": "〜より上に",
+    "originalEnglish": "above",
+    "correctedEnglish": "above"
+  },
+  {
+    "id": "E5-0379",
+    "en": "hour",
+    "before": "時間",
+    "after": "1時間（60分）・〜時間",
+    "originalEnglish": "hour",
+    "correctedEnglish": "hour"
+  },
+  {
+    "id": "E5-0408",
+    "en": "picture",
+    "before": "絵・写真",
+    "after": "絵（イラスト）",
+    "originalEnglish": "picture",
+    "correctedEnglish": "picture"
+  },
+  {
+    "id": "E5-0409",
+    "en": "photo",
+    "before": "写真",
+    "after": "写真（カメラで撮ったもの）",
+    "originalEnglish": "photo",
+    "correctedEnglish": "photo"
+  },
+  {
+    "id": "E5-0411",
+    "en": "clock",
+    "before": "時計",
+    "after": "時計（かべ時計・置き時計など）",
+    "originalEnglish": "clock",
+    "correctedEnglish": "clock"
+  },
+  {
+    "id": "E5-0457",
+    "en": "television",
+    "before": "テレビ番組・テレビ",
+    "after": "テレビ",
+    "originalEnglish": "television",
+    "correctedEnglish": "television"
+  },
+  {
+    "id": "E5-0493",
+    "en": "ocean",
+    "before": "大洋",
+    "after": "大きな海・大洋",
+    "originalEnglish": "ocean",
+    "correctedEnglish": "ocean"
+  },
+  {
+    "id": "E5-0508",
+    "en": "department store",
+    "before": "百貨店",
+    "after": "デパート・百貨店",
+    "originalEnglish": "department store",
+    "correctedEnglish": "department store"
+  },
+  {
+    "id": "E5-0523",
+    "en": "front",
+    "before": "前面",
+    "after": "前・正面",
+    "originalEnglish": "front",
+    "correctedEnglish": "front"
+  },
+  {
+    "id": "E5-0542",
+    "en": "gift",
+    "before": "贈り物",
+    "after": "プレゼント・贈り物",
+    "originalEnglish": "gift",
+    "correctedEnglish": "gift"
+  },
+  {
+    "id": "E5-0543",
+    "en": "present",
+    "before": "プレゼント",
+    "after": "プレゼント・贈り物",
+    "originalEnglish": "present",
+    "correctedEnglish": "present"
+  },
+  {
+    "id": "E5-0558",
+    "en": "friendly",
+    "before": "友好的な",
+    "after": "親しみやすい・人なつっこい",
+    "originalEnglish": "friendly",
+    "correctedEnglish": "friendly"
+  },
+  {
+    "id": "E5-0569",
+    "en": "hard",
+    "before": "難しい・硬い",
+    "after": "かたい",
+    "originalEnglish": "hard",
+    "correctedEnglish": "hard"
+  },
+  {
+    "id": "E5-0573",
+    "en": "important",
+    "before": "重要な",
+    "after": "大切な・重要な",
+    "originalEnglish": "important",
+    "correctedEnglish": "important"
+  },
+  {
+    "id": "E5-0597",
+    "en": "usually",
+    "before": "ふつう",
+    "after": "ふだんは・たいてい",
+    "originalEnglish": "usually",
+    "correctedEnglish": "usually"
+  },
+  {
+    "id": "E5-0612",
+    "en": "too",
+    "before": "〜もまた・あまりに",
+    "after": "あまりに〜（程度が強すぎる）",
+    "originalEnglish": "too",
+    "correctedEnglish": "too"
+  },
+  {
+    "id": "E5-0647",
+    "en": "do my best",
+    "before": "最善を尽くす",
+    "after": "全力でがんばる（自分が）",
+    "originalEnglish": "do one's best",
+    "correctedEnglish": "do my best"
+  },
+  {
+    "id": "E5-0662",
+    "en": "in the evening",
+    "before": "夕方に",
+    "after": "夕方に・晩に",
+    "originalEnglish": "in the evening",
+    "correctedEnglish": "in the evening"
+  },
+  {
+    "id": "E5-0671",
+    "en": "how long",
+    "before": "どのくらい長く",
+    "after": "どのくらいの長さ・期間",
+    "originalEnglish": "how long",
+    "correctedEnglish": "how long"
+  },
+  {
+    "id": "E5-0676",
+    "en": "Nice to meet you.",
+    "before": "はじめまして",
+    "after": "はじめまして",
+    "originalEnglish": "nice to meet you",
+    "correctedEnglish": "Nice to meet you."
+  },
+  {
+    "id": "E5-0677",
+    "en": "Nice to see you.",
+    "before": "会えてうれしい",
+    "after": "会えてうれしい",
+    "originalEnglish": "nice to see you",
+    "correctedEnglish": "Nice to see you."
+  },
+  {
+    "id": "E5-0678",
+    "en": "How are you?",
+    "before": "お元気ですか",
+    "after": "お元気ですか",
+    "originalEnglish": "how are you",
+    "correctedEnglish": "How are you?"
+  },
+  {
+    "id": "E5-0679",
+    "en": "I'm fine.",
+    "before": "元気です",
+    "after": "元気です",
+    "originalEnglish": "I'm fine",
+    "correctedEnglish": "I'm fine."
+  },
+  {
+    "id": "E5-0680",
+    "en": "Thank you.",
+    "before": "ありがとう",
+    "after": "ありがとう",
+    "originalEnglish": "thank you",
+    "correctedEnglish": "Thank you."
+  },
+  {
+    "id": "E5-0681",
+    "en": "Thanks a lot.",
+    "before": "どうもありがとう",
+    "after": "どうもありがとう",
+    "originalEnglish": "thanks a lot",
+    "correctedEnglish": "Thanks a lot."
+  },
+  {
+    "id": "E5-0682",
+    "en": "You're welcome.",
+    "before": "どういたしまして",
+    "after": "どういたしまして",
+    "originalEnglish": "you're welcome",
+    "correctedEnglish": "You're welcome."
+  },
+  {
+    "id": "E5-0683",
+    "en": "Excuse me.",
+    "before": "すみません",
+    "after": "すみません",
+    "originalEnglish": "excuse me",
+    "correctedEnglish": "Excuse me."
+  },
+  {
+    "id": "E5-0684",
+    "en": "I'm sorry.",
+    "before": "ごめんなさい",
+    "after": "ごめんなさい",
+    "originalEnglish": "I'm sorry",
+    "correctedEnglish": "I'm sorry."
+  },
+  {
+    "id": "E5-0685",
+    "en": "That's OK.",
+    "before": "大丈夫です",
+    "after": "大丈夫です",
+    "originalEnglish": "that's OK",
+    "correctedEnglish": "That's OK."
+  },
+  {
+    "id": "E5-0686",
+    "en": "Of course.",
+    "before": "もちろん",
+    "after": "もちろん",
+    "originalEnglish": "of course",
+    "correctedEnglish": "Of course."
+  },
+  {
+    "id": "E5-0687",
+    "en": "Here you are.",
+    "before": "はいどうぞ",
+    "after": "はいどうぞ",
+    "originalEnglish": "here you are",
+    "correctedEnglish": "Here you are."
+  },
+  {
+    "id": "E5-0688",
+    "en": "See you.",
+    "before": "またね",
+    "after": "またね",
+    "originalEnglish": "see you",
+    "correctedEnglish": "See you."
+  },
+  {
+    "id": "E5-0689",
+    "en": "See you later.",
+    "before": "またあとで",
+    "after": "またあとで",
+    "originalEnglish": "see you later",
+    "correctedEnglish": "See you later."
+  },
+  {
+    "id": "E5-0690",
+    "en": "Good morning.",
+    "before": "おはよう",
+    "after": "おはよう",
+    "originalEnglish": "good morning",
+    "correctedEnglish": "Good morning."
+  },
+  {
+    "id": "E5-0691",
+    "en": "Good afternoon.",
+    "before": "こんにちは",
+    "after": "こんにちは",
+    "originalEnglish": "good afternoon",
+    "correctedEnglish": "Good afternoon."
+  },
+  {
+    "id": "E5-0692",
+    "en": "Good evening.",
+    "before": "こんばんは",
+    "after": "こんばんは",
+    "originalEnglish": "good evening",
+    "correctedEnglish": "Good evening."
+  },
+  {
+    "id": "E5-0693",
+    "en": "Good night.",
+    "before": "おやすみ",
+    "after": "おやすみ",
+    "originalEnglish": "good night",
+    "correctedEnglish": "Good night."
+  },
+  {
+    "id": "E5-0694",
+    "en": "Happy birthday.",
+    "before": "誕生日おめでとう",
+    "after": "誕生日おめでとう",
+    "originalEnglish": "happy birthday",
+    "correctedEnglish": "Happy birthday."
+  },
+  {
+    "id": "E5-0695",
+    "en": "Good luck.",
+    "before": "幸運を祈る",
+    "after": "うまくいくといいね・がんばってね",
+    "originalEnglish": "good luck",
+    "correctedEnglish": "Good luck."
+  },
+  {
+    "id": "E5-0696",
+    "en": "Have a nice day.",
+    "before": "よい一日を",
+    "after": "よい一日を",
+    "originalEnglish": "have a nice day",
+    "correctedEnglish": "Have a nice day."
+  },
+  {
+    "id": "E5-0697",
+    "en": "Let's go.",
+    "before": "行きましょう",
+    "after": "行きましょう",
+    "originalEnglish": "let's go",
+    "correctedEnglish": "Let's go."
+  },
+  {
+    "id": "E5-0698",
+    "en": "Let's play.",
+    "before": "遊びましょう",
+    "after": "遊びましょう",
+    "originalEnglish": "let's play",
+    "correctedEnglish": "Let's play."
+  },
+  {
+    "id": "E5-0699",
+    "en": "Come on.",
+    "before": "さあ・頑張れ",
+    "after": "さあ・頑張れ",
+    "originalEnglish": "come on",
+    "correctedEnglish": "Come on."
+  },
+  {
+    "id": "E5-0700",
+    "en": "Sit down.",
+    "before": "座って",
+    "after": "座って",
+    "originalEnglish": "sit down",
+    "correctedEnglish": "Sit down."
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "url": "https://words-master-eiken5.vercel.app/",
+  "target": "production",
+  "status": "READY",
+  "files": [
+    {
+      "file": "index.html",
+      "status": 200,
+      "sha256": "a22b310778e56ad71b1eb9fd5603e3e66022a0634f4c3ad4d5e7bf382d95ad0f",
+      "localMatches": true
+    },
+    {
+      "file": "handwriting.js",
+      "status": 200,
+      "sha256": "83f74da96abf6784302799817f85156916392e7d2a84abcb6fc015fdd6da08be",
+      "localMatches": true
+    },
+    {
+      "file": "handwriting.css",
+      "status": 200,
+      "sha256": "d2ec5b42485c4ad5aa2d822021b4ab84c009692254e40885676012c0a639dc10",
+      "localMatches": true
+    },
+    {
+      "file": "data/grade1.js",
+      "status": 200,
+      "sha256": "390d315e66a67ad23b151d3ad4bb9ac2d9ac3fad9be89ad8f6390ff3cb518163",
+      "localMatches": true
+    },
+    {
+      "file": "data/grade2.js",
+      "status": 200,
+      "sha256": "40d7b62e53ad218148de5f1a2e1154c19ca052d2c8620b487d2beaa303029719",
+      "localMatches": true
+    },
+    {
+      "file": "data/grade3.js",
+      "status": 200,
+      "sha256": "15fbe066194357ae25918fbf7a9a895fd11dad5484a242ac9337cdb3e70f93c6",
+      "localMatches": true
+    }
+  ],
+  "nonAppFilesExcluded": true
+}

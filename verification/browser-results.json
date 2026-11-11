@@ -1,0 +1,64 @@
+[
+  {
+    "viewport": {
+      "width": 1280,
+      "height": 900
+    },
+    "coverage": {
+      "count": 700,
+      "ids": 700,
+      "phrases": 90,
+      "groups": [
+        300,
+        300,
+        100
+      ]
+    },
+    "reviewChecks": {
+      "hintedEntries": 20
+    },
+    "passed": [
+      "navigation",
+      "700 item display and card compatibility",
+      "typing correct/skip/score/results",
+      "card correct",
+      "match correct/score/results",
+      "handwriting four lines/drawing/undo/clear/skip/exit",
+      "score persistence/reload/ranking",
+      "reset storage isolation",
+      "no page errors",
+      "no horizontal page overflow"
+    ]
+  },
+  {
+    "viewport": {
+      "width": 390,
+      "height": 844
+    },
+    "coverage": {
+      "count": 700,
+      "ids": 700,
+      "phrases": 90,
+      "groups": [
+        300,
+        300,
+        100
+      ]
+    },
+    "reviewChecks": {
+      "hintedEntries": 20
+    },
+    "passed": [
+      "navigation",
+      "700 item display and card compatibility",
+      "typing correct/skip/score/results",
+      "card correct",
+      "match correct/score/results",
+      "handwriting four lines/drawing/undo/clear/skip/exit",
+      "score persistence/reload/ranking",
+      "reset storage isolation",
+      "no page errors",
+      "no horizontal page overflow"
+    ]
+  }
+]

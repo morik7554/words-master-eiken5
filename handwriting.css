@@ -1,0 +1,176 @@
+.handwriting-screen {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    gap: 12px;
+    overflow-y: auto;
+    overscroll-behavior: contain;
+    -webkit-overflow-scrolling: touch;
+}
+
+.handwriting-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.handwriting-header button,
+.handwriting-actions button,
+.handwriting-submit-actions button {
+    min-height: 44px;
+    margin: 0;
+    padding: 10px 12px;
+    font-size: 0.95rem;
+}
+
+.handwriting-header button {
+    width: auto;
+    min-width: 92px;
+}
+
+.handwriting-score {
+    flex: 1;
+    color: var(--accent);
+    font-weight: bold;
+    text-align: center;
+}
+
+.handwriting-timer {
+    min-width: 38px;
+    font-size: 1.5rem;
+    font-weight: bold;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+}
+
+.handwriting-timer.low {
+    color: var(--wrong);
+}
+
+.handwriting-question {
+    margin: 0;
+    padding: 20px;
+}
+
+.handwriting-question .question-hint {
+    margin-top: 8px;
+    font-size: 1rem;
+}
+
+.handwriting-paper {
+    position: relative;
+    flex: 0 0 230px;
+    overflow: hidden;
+    border: 2px solid #cbd5e1;
+    border-radius: 14px;
+    background: #ffffff;
+    touch-action: none;
+    cursor: crosshair;
+}
+
+.handwriting-guide {
+    position: absolute;
+    right: 0;
+    left: 0;
+    z-index: 0;
+    border-top: 1px solid #94a3b8;
+    pointer-events: none;
+}
+
+.handwriting-guide.top { top: 16%; }
+.handwriting-guide.middle { top: 42%; border-top-style: dashed; border-top-color: #cbd5e1; }
+.handwriting-guide.baseline { top: 68%; border-top: 1.5px solid #ef4444; }
+.handwriting-guide.bottom { top: 91%; }
+
+.handwriting-canvas {
+    position: relative;
+    z-index: 1;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.handwriting-actions,
+.handwriting-submit-actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+}
+
+.handwriting-submit-actions {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.handwriting-status {
+    min-height: 24px;
+    padding: 8px 12px;
+    border-radius: 10px;
+    background: var(--card-bg);
+    color: var(--text-muted);
+    font-size: 0.88rem;
+    text-align: center;
+}
+
+.handwriting-status.correct { color: var(--correct); font-weight: bold; }
+.handwriting-status.wrong { color: var(--wrong); font-weight: bold; }
+
+.handwriting-complete {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    min-height: 100%;
+    text-align: center;
+}
+
+.handwriting-result-card {
+    margin-bottom: 12px;
+    padding: 20px;
+}
+
+.handwriting-total-score {
+    color: var(--accent);
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.handwriting-correct-count {
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.handwriting-wrong-list {
+    min-height: 100px;
+    text-align: left;
+}
+
+.handwriting-wrong-jp {
+    flex: 1.5;
+    font-size: 0.95rem;
+}
+
+.handwriting-wrong-answer {
+    flex: 2;
+    color: var(--wrong);
+    font-weight: bold;
+    text-align: center;
+}
+
+.handwriting-wrong-answer small {
+    display: block;
+    margin-top: 4px;
+    color: var(--text-muted);
+    font-size: 0.75rem;
+    font-weight: normal;
+}
+
+.handwriting-perfect {
+    padding: 20px;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    .handwriting-header { align-items: flex-start; }
+    .handwriting-score { font-size: 0.82rem; }
+    .handwriting-paper { flex-basis: 200px; }
+}

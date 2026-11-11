@@ -1,0 +1,772 @@
+[
+  {
+    "id": "E5-0002",
+    "before": {
+      "en": "am",
+      "jp": "〜です"
+    },
+    "after": {
+      "en": "am",
+      "jp": "〜です（Iと使う）"
+    }
+  },
+  {
+    "id": "E5-0003",
+    "before": {
+      "en": "is",
+      "jp": "〜です"
+    },
+    "after": {
+      "en": "is",
+      "jp": "〜です（he・she・itなどと使う）"
+    }
+  },
+  {
+    "id": "E5-0004",
+    "before": {
+      "en": "are",
+      "jp": "〜です"
+    },
+    "after": {
+      "en": "are",
+      "jp": "〜です（you・we・theyなどと使う）"
+    }
+  },
+  {
+    "id": "E5-0006",
+    "before": {
+      "en": "has",
+      "jp": "持っている（三単現）"
+    },
+    "after": {
+      "en": "has",
+      "jp": "持っている（he・she・itなどと使うhaveの形）"
+    }
+  },
+  {
+    "id": "E5-0008",
+    "before": {
+      "en": "does",
+      "jp": "する（三単現）"
+    },
+    "after": {
+      "en": "does",
+      "jp": "する（he・she・itなどと使うdoの形）"
+    }
+  },
+  {
+    "id": "E5-0011",
+    "before": {
+      "en": "get",
+      "jp": "得る・着く"
+    },
+    "after": {
+      "en": "get",
+      "jp": "手に入れる・着く"
+    }
+  },
+  {
+    "id": "E5-0014",
+    "before": {
+      "en": "give",
+      "jp": "与える"
+    },
+    "after": {
+      "en": "give",
+      "jp": "あげる・渡す"
+    }
+  },
+  {
+    "id": "E5-0025",
+    "before": {
+      "en": "see",
+      "jp": "見る・会う"
+    },
+    "after": {
+      "en": "see",
+      "jp": "見える・会う"
+    }
+  },
+  {
+    "id": "E5-0026",
+    "before": {
+      "en": "look",
+      "jp": "見る"
+    },
+    "after": {
+      "en": "look",
+      "jp": "目を向けて見る"
+    }
+  },
+  {
+    "id": "E5-0027",
+    "before": {
+      "en": "watch",
+      "jp": "見る"
+    },
+    "after": {
+      "en": "watch",
+      "jp": "じっと見る（テレビや動きなどを）"
+    }
+  },
+  {
+    "id": "E5-0030",
+    "before": {
+      "en": "speak",
+      "jp": "話す"
+    },
+    "after": {
+      "en": "speak",
+      "jp": "言葉を話す"
+    }
+  },
+  {
+    "id": "E5-0031",
+    "before": {
+      "en": "talk",
+      "jp": "話す"
+    },
+    "after": {
+      "en": "talk",
+      "jp": "人と話す"
+    }
+  },
+  {
+    "id": "E5-0072",
+    "before": {
+      "en": "us",
+      "jp": "私たちを・に"
+    },
+    "after": {
+      "en": "us",
+      "jp": "私たちを・私たちに"
+    }
+  },
+  {
+    "id": "E5-0076",
+    "before": {
+      "en": "them",
+      "jp": "彼らを・に"
+    },
+    "after": {
+      "en": "them",
+      "jp": "彼らを・彼らに・それらを・それらに"
+    }
+  },
+  {
+    "id": "E5-0093",
+    "before": {
+      "en": "will",
+      "jp": "〜するつもりだ"
+    },
+    "after": {
+      "en": "will",
+      "jp": "〜だろう・〜するつもりだ"
+    }
+  },
+  {
+    "id": "E5-0098",
+    "before": {
+      "en": "because",
+      "jp": "なぜなら"
+    },
+    "after": {
+      "en": "because",
+      "jp": "〜なので・〜だから"
+    }
+  },
+  {
+    "id": "E5-0103",
+    "before": {
+      "en": "to",
+      "jp": "〜へ・〜すること"
+    },
+    "after": {
+      "en": "to",
+      "jp": "〜へ／（動詞の前で）〜すること・〜するために"
+    }
+  },
+  {
+    "id": "E5-0176",
+    "before": {
+      "en": "class",
+      "jp": "授業・クラス"
+    },
+    "after": {
+      "en": "class",
+      "jp": "クラス（学級）"
+    }
+  },
+  {
+    "id": "E5-0227",
+    "before": {
+      "en": "noodle",
+      "jp": "麺（1本）"
+    },
+    "after": {
+      "en": "noodle",
+      "jp": "めん（ふつうはnoodlesと複数形で使う）"
+    }
+  },
+  {
+    "id": "E5-0260",
+    "before": {
+      "en": "home",
+      "jp": "家・自宅"
+    },
+    "after": {
+      "en": "home",
+      "jp": "自宅（生活する場所）"
+    }
+  },
+  {
+    "id": "E5-0261",
+    "before": {
+      "en": "house",
+      "jp": "家"
+    },
+    "after": {
+      "en": "house",
+      "jp": "家（建物）"
+    }
+  },
+  {
+    "id": "E5-0278",
+    "before": {
+      "en": "small",
+      "jp": "小さい"
+    },
+    "after": {
+      "en": "small",
+      "jp": "小さい（大きさが小さい）"
+    }
+  },
+  {
+    "id": "E5-0280",
+    "before": {
+      "en": "little",
+      "jp": "小さい・少しの"
+    },
+    "after": {
+      "en": "little",
+      "jp": "少しの（a littleで使う）"
+    }
+  },
+  {
+    "id": "E5-0301",
+    "before": {
+      "en": "draw",
+      "jp": "描く"
+    },
+    "after": {
+      "en": "draw",
+      "jp": "絵をかく（えんぴつなどで）"
+    }
+  },
+  {
+    "id": "E5-0302",
+    "before": {
+      "en": "paint",
+      "jp": "絵を描く"
+    },
+    "after": {
+      "en": "paint",
+      "jp": "絵をかく（絵の具で）"
+    }
+  },
+  {
+    "id": "E5-0338",
+    "before": {
+      "en": "on",
+      "jp": "〜の上に"
+    },
+    "after": {
+      "en": "on",
+      "jp": "〜の上に（くっついている）"
+    }
+  },
+  {
+    "id": "E5-0341",
+    "before": {
+      "en": "over",
+      "jp": "〜の上方に"
+    },
+    "after": {
+      "en": "over",
+      "jp": "〜の上方に・〜をこえて"
+    }
+  },
+  {
+    "id": "E5-0342",
+    "before": {
+      "en": "above",
+      "jp": "〜の上に"
+    },
+    "after": {
+      "en": "above",
+      "jp": "〜より上に"
+    }
+  },
+  {
+    "id": "E5-0379",
+    "before": {
+      "en": "hour",
+      "jp": "時間"
+    },
+    "after": {
+      "en": "hour",
+      "jp": "1時間（60分）・〜時間"
+    }
+  },
+  {
+    "id": "E5-0408",
+    "before": {
+      "en": "picture",
+      "jp": "絵・写真"
+    },
+    "after": {
+      "en": "picture",
+      "jp": "絵（イラスト）"
+    }
+  },
+  {
+    "id": "E5-0409",
+    "before": {
+      "en": "photo",
+      "jp": "写真"
+    },
+    "after": {
+      "en": "photo",
+      "jp": "写真（カメラで撮ったもの）"
+    }
+  },
+  {
+    "id": "E5-0411",
+    "before": {
+      "en": "clock",
+      "jp": "時計"
+    },
+    "after": {
+      "en": "clock",
+      "jp": "時計（かべ時計・置き時計など）"
+    }
+  },
+  {
+    "id": "E5-0457",
+    "before": {
+      "en": "television",
+      "jp": "テレビ番組・テレビ"
+    },
+    "after": {
+      "en": "television",
+      "jp": "テレビ"
+    }
+  },
+  {
+    "id": "E5-0493",
+    "before": {
+      "en": "ocean",
+      "jp": "大洋"
+    },
+    "after": {
+      "en": "ocean",
+      "jp": "大きな海・大洋"
+    }
+  },
+  {
+    "id": "E5-0508",
+    "before": {
+      "en": "department store",
+      "jp": "百貨店"
+    },
+    "after": {
+      "en": "department store",
+      "jp": "デパート・百貨店"
+    }
+  },
+  {
+    "id": "E5-0523",
+    "before": {
+      "en": "front",
+      "jp": "前面"
+    },
+    "after": {
+      "en": "front",
+      "jp": "前・正面"
+    }
+  },
+  {
+    "id": "E5-0542",
+    "before": {
+      "en": "gift",
+      "jp": "贈り物"
+    },
+    "after": {
+      "en": "gift",
+      "jp": "プレゼント・贈り物"
+    }
+  },
+  {
+    "id": "E5-0543",
+    "before": {
+      "en": "present",
+      "jp": "プレゼント"
+    },
+    "after": {
+      "en": "present",
+      "jp": "プレゼント・贈り物"
+    }
+  },
+  {
+    "id": "E5-0558",
+    "before": {
+      "en": "friendly",
+      "jp": "友好的な"
+    },
+    "after": {
+      "en": "friendly",
+      "jp": "親しみやすい・人なつっこい"
+    }
+  },
+  {
+    "id": "E5-0569",
+    "before": {
+      "en": "hard",
+      "jp": "難しい・硬い"
+    },
+    "after": {
+      "en": "hard",
+      "jp": "かたい"
+    }
+  },
+  {
+    "id": "E5-0573",
+    "before": {
+      "en": "important",
+      "jp": "重要な"
+    },
+    "after": {
+      "en": "important",
+      "jp": "大切な・重要な"
+    }
+  },
+  {
+    "id": "E5-0597",
+    "before": {
+      "en": "usually",
+      "jp": "ふつう"
+    },
+    "after": {
+      "en": "usually",
+      "jp": "ふだんは・たいてい"
+    }
+  },
+  {
+    "id": "E5-0612",
+    "before": {
+      "en": "too",
+      "jp": "〜もまた・あまりに"
+    },
+    "after": {
+      "en": "too",
+      "jp": "あまりに〜（程度が強すぎる）"
+    }
+  },
+  {
+    "id": "E5-0647",
+    "before": {
+      "en": "do one's best",
+      "jp": "最善を尽くす"
+    },
+    "after": {
+      "en": "do my best",
+      "jp": "全力でがんばる（自分が）"
+    }
+  },
+  {
+    "id": "E5-0662",
+    "before": {
+      "en": "in the evening",
+      "jp": "夕方に"
+    },
+    "after": {
+      "en": "in the evening",
+      "jp": "夕方に・晩に"
+    }
+  },
+  {
+    "id": "E5-0676",
+    "before": {
+      "en": "nice to meet you",
+      "jp": "はじめまして"
+    },
+    "after": {
+      "en": "Nice to meet you.",
+      "jp": "はじめまして"
+    }
+  },
+  {
+    "id": "E5-0677",
+    "before": {
+      "en": "nice to see you",
+      "jp": "会えてうれしい"
+    },
+    "after": {
+      "en": "Nice to see you.",
+      "jp": "会えてうれしい"
+    }
+  },
+  {
+    "id": "E5-0678",
+    "before": {
+      "en": "how are you",
+      "jp": "お元気ですか"
+    },
+    "after": {
+      "en": "How are you?",
+      "jp": "お元気ですか"
+    }
+  },
+  {
+    "id": "E5-0679",
+    "before": {
+      "en": "I'm fine",
+      "jp": "元気です"
+    },
+    "after": {
+      "en": "I'm fine.",
+      "jp": "元気です"
+    }
+  },
+  {
+    "id": "E5-0680",
+    "before": {
+      "en": "thank you",
+      "jp": "ありがとう"
+    },
+    "after": {
+      "en": "Thank you.",
+      "jp": "ありがとう"
+    }
+  },
+  {
+    "id": "E5-0681",
+    "before": {
+      "en": "thanks a lot",
+      "jp": "どうもありがとう"
+    },
+    "after": {
+      "en": "Thanks a lot.",
+      "jp": "どうもありがとう"
+    }
+  },
+  {
+    "id": "E5-0682",
+    "before": {
+      "en": "you're welcome",
+      "jp": "どういたしまして"
+    },
+    "after": {
+      "en": "You're welcome.",
+      "jp": "どういたしまして"
+    }
+  },
+  {
+    "id": "E5-0683",
+    "before": {
+      "en": "excuse me",
+      "jp": "すみません"
+    },
+    "after": {
+      "en": "Excuse me.",
+      "jp": "すみません"
+    }
+  },
+  {
+    "id": "E5-0684",
+    "before": {
+      "en": "I'm sorry",
+      "jp": "ごめんなさい"
+    },
+    "after": {
+      "en": "I'm sorry.",
+      "jp": "ごめんなさい"
+    }
+  },
+  {
+    "id": "E5-0685",
+    "before": {
+      "en": "that's OK",
+      "jp": "大丈夫です"
+    },
+    "after": {
+      "en": "That's OK.",
+      "jp": "大丈夫です"
+    }
+  },
+  {
+    "id": "E5-0686",
+    "before": {
+      "en": "of course",
+      "jp": "もちろん"
+    },
+    "after": {
+      "en": "Of course.",
+      "jp": "もちろん"
+    }
+  },
+  {
+    "id": "E5-0687",
+    "before": {
+      "en": "here you are",
+      "jp": "はいどうぞ"
+    },
+    "after": {
+      "en": "Here you are.",
+      "jp": "はいどうぞ"
+    }
+  },
+  {
+    "id": "E5-0688",
+    "before": {
+      "en": "see you",
+      "jp": "またね"
+    },
+    "after": {
+      "en": "See you.",
+      "jp": "またね"
+    }
+  },
+  {
+    "id": "E5-0689",
+    "before": {
+      "en": "see you later",
+      "jp": "またあとで"
+    },
+    "after": {
+      "en": "See you later.",
+      "jp": "またあとで"
+    }
+  },
+  {
+    "id": "E5-0690",
+    "before": {
+      "en": "good morning",
+      "jp": "おはよう"
+    },
+    "after": {
+      "en": "Good morning.",
+      "jp": "おはよう"
+    }
+  },
+  {
+    "id": "E5-0691",
+    "before": {
+      "en": "good afternoon",
+      "jp": "こんにちは"
+    },
+    "after": {
+      "en": "Good afternoon.",
+      "jp": "こんにちは"
+    }
+  },
+  {
+    "id": "E5-0692",
+    "before": {
+      "en": "good evening",
+      "jp": "こんばんは"
+    },
+    "after": {
+      "en": "Good evening.",
+      "jp": "こんばんは"
+    }
+  },
+  {
+    "id": "E5-0693",
+    "before": {
+      "en": "good night",
+      "jp": "おやすみ"
+    },
+    "after": {
+      "en": "Good night.",
+      "jp": "おやすみ"
+    }
+  },
+  {
+    "id": "E5-0694",
+    "before": {
+      "en": "happy birthday",
+      "jp": "誕生日おめでとう"
+    },
+    "after": {
+      "en": "Happy birthday.",
+      "jp": "誕生日おめでとう"
+    }
+  },
+  {
+    "id": "E5-0695",
+    "before": {
+      "en": "good luck",
+      "jp": "幸運を祈る"
+    },
+    "after": {
+      "en": "Good luck.",
+      "jp": "うまくいくといいね・がんばってね"
+    }
+  },
+  {
+    "id": "E5-0696",
+    "before": {
+      "en": "have a nice day",
+      "jp": "よい一日を"
+    },
+    "after": {
+      "en": "Have a nice day.",
+      "jp": "よい一日を"
+    }
+  },
+  {
+    "id": "E5-0697",
+    "before": {
+      "en": "let's go",
+      "jp": "行きましょう"
+    },
+    "after": {
+      "en": "Let's go.",
+      "jp": "行きましょう"
+    }
+  },
+  {
+    "id": "E5-0698",
+    "before": {
+      "en": "let's play",
+      "jp": "遊びましょう"
+    },
+    "after": {
+      "en": "Let's play.",
+      "jp": "遊びましょう"
+    }
+  },
+  {
+    "id": "E5-0699",
+    "before": {
+      "en": "come on",
+      "jp": "さあ・頑張れ"
+    },
+    "after": {
+      "en": "Come on.",
+      "jp": "さあ・頑張れ"
+    }
+  },
+  {
+    "id": "E5-0700",
+    "before": {
+      "en": "sit down",
+      "jp": "座って"
+    },
+    "after": {
+      "en": "Sit down.",
+      "jp": "座って"
+    }
+  }
+]

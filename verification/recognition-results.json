@@ -1,0 +1,8 @@
+{
+  "itemsAcceptedAfterExistingOCRNormalization": 700,
+  "shortWordWrongAnswerRejected": true,
+  "wrongAnswerRejected": true,
+  "existingTolerancePreserved": true,
+  "scoreChecksPassed": true,
+  "shippedCodeModified": false
+}

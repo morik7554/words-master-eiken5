@@ -1,0 +1,36 @@
+{
+  "items": 700,
+  "levels": {
+    "1": 300,
+    "2": 300,
+    "3": 100
+  },
+  "categories": {
+    "基本動詞": 90,
+    "文法機能語": 65,
+    "数字・曜日・月・色": 72,
+    "人・家族・職業": 45,
+    "学校・持ち物": 55,
+    "食べ物・飲み物": 48,
+    "スポーツ・趣味": 40,
+    "動物・自然・天気": 40,
+    "場所・乗り物・生活": 75,
+    "形容詞": 55,
+    "副詞・時間表現": 35,
+    "熟語・会話表現": 80
+  },
+  "phrases": 90,
+  "duplicate_ids": 0,
+  "duplicate_english": 0,
+  "corrected_entries": 76,
+  "translation_corrections": 52,
+  "english_corrections": 26,
+  "source_files_unchanged": true,
+  "handwriting_code_unchanged": true,
+  "original_csv_unchanged": true,
+  "storage_keys": [
+    "words-master-eiken5:v1:nickname",
+    "words-master-eiken5:v1:soundOn",
+    "words-master-eiken5:v1:userStats"
+  ]
+}
